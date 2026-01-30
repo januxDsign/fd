@@ -1,6 +1,6 @@
 {
   "short_name": "Finance",
-  "name": "Personal Financial Dashboard",
+  "name": "PFD",
   "icons": [
     {
       "src": "/dbx.png",
@@ -20,4 +20,5 @@
   "theme_color": "#0f172a"
 
 }
+
 
